@@ -1,2 +1,2 @@
 # Hacktoberfest-programs
-Write a program in any language and contribute to this repo
+Write a program in any programming language to contribute this repo
